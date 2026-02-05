@@ -1,0 +1,51 @@
+doctor_id,department,hours_available,hours_booked
+1,Pediatrics,9,2
+2,Pediatrics,8,0
+3,Emergency,8,5
+4,Oncology,6,6
+5,General Medicine,6,5
+6,Cardiology,9,1
+7,Cardiology,8,7
+8,Orthopedics,6,5
+9,Emergency,9,0
+10,Oncology,8,6
+11,Oncology,8,4
+12,Pediatrics,9,9
+13,Emergency,6,3
+14,Pediatrics,8,1
+15,Orthopedics,6,6
+16,Oncology,8,4
+17,Orthopedics,7,7
+18,Orthopedics,7,7
+19,Oncology,6,5
+20,Emergency,8,8
+21,Emergency,7,0
+22,Orthopedics,8,8
+23,Oncology,8,3
+24,Cardiology,9,8
+25,Cardiology,8,2
+26,Cardiology,8,1
+27,General Medicine,8,1
+28,Cardiology,8,3
+29,Pediatrics,8,3
+30,General Medicine,9,6
+31,General Medicine,7,2
+32,Emergency,7,2
+33,Cardiology,6,0
+34,Oncology,9,1
+35,Emergency,6,3
+36,Pediatrics,6,5
+37,Orthopedics,9,3
+38,Oncology,9,1
+39,General Medicine,9,4
+40,Pediatrics,8,8
+41,Orthopedics,6,5
+42,Cardiology,8,5
+43,General Medicine,8,4
+44,General Medicine,9,8
+45,Pediatrics,6,5
+46,Orthopedics,7,0
+47,Oncology,7,1
+48,Pediatrics,8,5
+49,Oncology,6,6
+50,Oncology,7,0
